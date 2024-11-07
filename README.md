@@ -14,7 +14,7 @@ Features:
 
 -Repair Decision based on a customizable threshold of total crack area.
 
-Installation
+Installation:
 Make sure you have the following libraries installed:
 
 
@@ -49,7 +49,7 @@ threshold_area: Modify the threshold_area parameter in repair_decision to suit y
 
 
 
-Dependencies
+Dependencies:
 
 
 OpenCV: For image processing and feature detection.
